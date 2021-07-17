@@ -1,0 +1,29 @@
+V1.2
+
+Fixed Brake Glow
+Fixed Sounds and tested in Multiplayer- Thanks Timo
+Adjusted FFB
+Tweaked the Brakes
+Adjusted Driver3d (Now matches actual wheel rotations)
+Fixed Tyres (over heating)
+Fixed Brakes (Cooling down to quickly)
+Softened the Rear
+Fixed Setup - Values where correct, but the adjustments that could be made was way off, Camber / Toe
+Fixed Ride Height - Again values was correct, but the adjustments was unrealistic
+Adjusted Aero (was missing Rear Diffuser) My Bad, sorry.
+
+V2.0
+Improved Brake Glow
+Adjusted Weight Distribution
+Adjusted Brakes
+Changed starting Tyre Pressue (for fixed race setups) but in Non fixed, you can lower them
+Changed Brake Torque
+Improved Engine Braking Torgue
+Fixed Aero of wings (I got them the wrong way around)
+Adjust gear ratio according to new video I have of onboard using Silverstone National as a bench mark
+Adjusted Clutch Torque to match above
+Fixed LOD (distant cars going white) issue
+
+
+
+
